@@ -16,4 +16,4 @@ virtualenv (nombre del entorno virtual) = venv
 .\venv\Scripts\activate
 
 4.Instalar paquetes
-pip install flask flask-sqlal
+pip install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy pymysql 
